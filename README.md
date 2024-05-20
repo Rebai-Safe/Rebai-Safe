@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'am Safé, software engineer & full stack developer
+
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rebai-sAFE&show_icons=true&theme=synthwave)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebai-Safe&layout=pie&theme=synthwave)]
+
 <!--
 **Rebai-Safe/Rebai-Safe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
