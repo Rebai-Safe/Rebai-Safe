@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate software developer with a knack for creating efficient and scalable solutions🤓. With a strong foundation in computer science and a deep interest in emerging technologies, I enjoy working on projects that challenge me and allow me to grow my skillset💓.
+I am a passionate software engineer with a knack for creating efficient and scalable solutions🤓. With a strong foundation in computer science and a deep interest in emerging technologies, I enjoy working on projects that challenge me and allow me to grow my skillset💓.
 
   - 🔭 Current Focus: Software engineering, Full-stack development.
   - 🌱 Learning: Continuously improving my knowledge.
