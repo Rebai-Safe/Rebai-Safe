@@ -9,7 +9,7 @@ I am a passionate software engineer with a strong foundation in computer science
 Skills & Expertise 🧞‍♀️
 
  - Languages: Java, JavaScript, HTML, SQL
- - Frameworks: Spring, Angular
+ - Frameworks: Spring, Angular, Angular material, Bootstrap 
  - Tools & Platforms: Docker, Kubernetes
  - Databases: MySQL, PostgreSQL
 
