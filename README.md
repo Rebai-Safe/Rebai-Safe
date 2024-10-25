@@ -15,5 +15,5 @@ Skills & Expertise 🧞‍♀️
 
 | Github Stats  | Most used languages |
 | ------------- | --------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rebai-sAFE&show_icons=true&theme=synthwave)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebai-Safe&layout=pie&theme=synthwave)  |
+|   |
 
